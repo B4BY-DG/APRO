@@ -30,15 +30,13 @@ apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests 
 <h2 align="center">Social Media</h2>
 <p align="center">
     </a>
-  <a href="https://www.facebook.com/MR.ANNOS007">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_2021_Logo.svg" alt="MR.ANNOS007 Facebook" height="30" width="30">
-  </a>
-  <a href="https://wa.me/qr/03124152052">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" alt="Xnot WhatsApp" height="30" width="30">
-  </a>
-  <a href="https://instagram.com/r0secrusher">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="annos_007 Instagram" height="30" width="30">
-  </a>
+  #### MY SOCIAL MEDIA
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/THE-DEMON-ANNOS)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/MR.ANNOS007)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/annos_007) 
+
+#### THANKS FOR USING MY SCRIPT
 
 </p>
 <h4 align="center">Visitor's count :eyes:</h4>
