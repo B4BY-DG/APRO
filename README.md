@@ -1,10 +1,31 @@
-# APRO
 # THE-DEMON-ANNOS
+<p align="center">
+#### INSTALL TOOL ON TERMUX
+```python
+$ apt update && apt upgrade
+$ apt install python2
+$ pip2 install lolcat
+$ pip2 install mechanize
+$ pip2 install requests bs4
+$ apt install git
+$ git clone https://github.com/THE-DEMON-ANNOS/APRO.git
+```
+#### RUN SCRIPT
+```python
+$ cd APRO
+$ python2 APRO.py
+```
+
+#### [~] SINGLE COMMAND
+
+```python
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/THE-DEMON-ANNOS/APRO ; cd APRO ; python2 APRO.py
+```
 <h2 align="center">Social Media</h2>
 <p align="center">
     </a>
   <a href="https://www.facebook.com/MR.ANNOS007">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="xXx_not_found_xXx Telegram" height="30" width="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_2021_Logo.svg" alt="MR.ANNOS007 Facebook" height="30" width="30">
   </a>
   <a href="https://wa.me/qr/03124152052">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" alt="Xnot WhatsApp" height="30" width="30">
