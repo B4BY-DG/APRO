@@ -30,7 +30,6 @@ apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests 
 <h2 align="center">Social Media</h2>
 <p align="center">
     </a>
-  #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/THE-DEMON-ANNOS)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/MR.ANNOS007)
